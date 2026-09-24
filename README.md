@@ -63,10 +63,12 @@ The circuits used to generate a frequency modulation must vary the frequency of 
 * **Low-pass Filtering:** Applies a Butterworth low-pass filter to smooth the envelope and recover the original modulating signal.
 
 ### 5. Visualization:
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-24 at 2 55 24 PM" src="https://github.com/user-attachments/assets/801c74fd-765a-43ad-8869-837005a5229f" />
 
 * Plots the modulating signal, carrier signal, FM modulated signal, and demodulated signal for analysis.
 
----
+
+
 
 ## PROCEDURE
 
@@ -81,5 +83,6 @@ The circuits used to generate a frequency modulation must vary the frequency of 
 ---
 
 ## MODEL GRAPH
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-24 at 2 55 40 PM" src="https://github.com/user-attachments/assets/68fb9aa6-b15b-42de-b7a7-d70c71e9bbfc" />
 
 
